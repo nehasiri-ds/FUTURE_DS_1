@@ -40,16 +40,36 @@ Main fields include:
 7. Product Performance Analysis
 8. Visualization and Insights
 
+## 📸 Dashboard Preview
+![Monthly Sales](monthly%20sales%20analysis.jpeg)
+
+---
+
 ## 📊 Visualizations
 
 ### 📈 Sales Trends
-![Sales Trends](sales%20trends.jpeg)
+![Sales Trends](sales_trends.jpeg)
+
+### 📊 Sales by Category
+![Sales Category](sales%20by%20category.jpeg)
+
+### 👥 Sales by Customer Segment
+![Customer Segment](sales%20by%20customer%20segment.jpeg)
 
 ### 🌍 Region-wise Sales
-![Region Sales](region%20sales.jpeg)
+![Region Sales](region_sales.jpeg)
 
 ### 💰 Profit by Category
-![Profit](profit%20by%20category.jpeg)
+![Profit](profit_by_category.jpeg)
+
+### 🔥 Top Products
+![Top Products](top%20products.jpeg)
+
+### 📉 Discount vs Profit
+![Discount vs Profit](discount%20vs%20profit.jpeg)
+
+### 🔗 Correlation Heatmap
+![Heatmap](correlation%20heatmap.jpeg)
 
 ## Key Analysis Performed
 
