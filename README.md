@@ -40,6 +40,17 @@ Main fields include:
 7. Product Performance Analysis
 8. Visualization and Insights
 
+## 📊 Visualizations
+
+### 📈 Sales Trends
+![Sales Trends](sales%20trends.jpeg)
+
+### 🌍 Region-wise Sales
+![Region Sales](region%20sales.jpeg)
+
+### 💰 Profit by Category
+![Profit](profit%20by%20category.jpeg)
+
 ## Key Analysis Performed
 
 - Sales trend analysis over time
